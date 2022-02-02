@@ -5,8 +5,8 @@
 - 🔥 &nbsp; Desenvolvedor Web Junior.
 - 🎓 &nbsp; Atualmente estudando Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a></h3>.
 - 💼 &nbsp; Buscando novas oportunidades como Desenvolvedor Front-end ou Back-end.
-- 🌱 &nbsp; Aprendendo sobre ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js).
-- 🤔 &nbsp; Pergunte-me sobre   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript),   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react),   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+- 🌱 &nbsp; Aprendendo sobre ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react), ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript) e ![StyledComponents](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components).
+- 🤔 &nbsp; Pergunte-me sobre   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript),   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react),   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6).
 
 
 <h3> 🛠 &nbsp;Stack de Tecnologias</h3>
