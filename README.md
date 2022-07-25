@@ -45,6 +45,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/paulopbomfim/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Paulo%20Bomfim-d83a7c?labelColor=141321&style=flat&logo=linkedin"></a>
-<a href="mailto:contato@paulopbomfim.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-contato@paulopbomfim.com.br-d83a7c?labelColor=141321&style=flat&logo=gmail"></a>
+<a href="mailto:dev@paulopbomfim.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-dev@paulopbomfim.com.br-d83a7c?labelColor=141321&style=flat&logo=gmail"></a>
 </p>
 
