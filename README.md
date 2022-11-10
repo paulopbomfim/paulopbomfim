@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
 - 🔥 &nbsp; Desenvolvedor Web Junior.
-- 🎓 &nbsp; Formado em Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a></h3>.
+- 🎓 &nbsp; Formado em Desenvolvimento Web e Aceleração de C# na <a href="https://www.betrybe.com/">Trybe</a></h3>.
 - 💼 &nbsp; Buscando novas oportunidades como Desenvolvedor Back-end.
-- 🌱 &nbsp; Aprendendo sobre ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp) e ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet).
+- 🌱 &nbsp; Aprendendo sobre ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp), ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet) e ![Asp.NET](https://img.shields.io/badge/-Asp.NET-333333?style=flat&logo=dotnet).
 
 
 <h3> 🛠 &nbsp;Stack de Tecnologias</h3>
@@ -21,12 +21,15 @@
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
   ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet)
+  ![Asp.NET](https://img.shields.io/badge/-Asp.NET-333333?style=flat&logo=dotnet)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
   ![TypeORM](https://img.shields.io/badge/-TypeORM-333333?style=flat&logo=typeorm)
   ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+  ![MSSQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-333333?style=flat&logo=dotnet)
+  ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-333333?style=flat&logo=dotnet)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -49,6 +52,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/paulopbomfim/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Paulo%20Bomfim-d83a7c?labelColor=141321&style=flat&logo=linkedin"></a>
-<a href="mailto:dev@paulopbomfim.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-dev@paulopbomfim.com.br-d83a7c?labelColor=141321&style=flat&logo=gmail"></a>
+<a href="mailto:paulopbomfim@gmail.comr"><img alt="Email" src="https://img.shields.io/badge/Email-paulopbomfim@gmail.com-d83a7c?labelColor=141321&style=flat&logo=gmail"></a>
 </p>
 
