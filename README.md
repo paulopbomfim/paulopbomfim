@@ -4,7 +4,7 @@
 
 - 🔥 &nbsp; Desenvolvedor Web Junior.
 - 🎓 &nbsp; Formado em Desenvolvimento Web e Aceleração de C# na <a href="https://www.betrybe.com/">Trybe</a></h3>.
-- 💼 &nbsp; Buscando novas oportunidades como Desenvolvedor Back-end.
+- 💼 &nbsp; Buscando novas oportunidades como Desenvolvedor Back-end C#.
 - 🌱 &nbsp; Aprendendo sobre ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp), ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet) e ![Asp.NET](https://img.shields.io/badge/-Asp.NET-333333?style=flat&logo=dotnet).
 
 
