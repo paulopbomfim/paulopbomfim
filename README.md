@@ -42,8 +42,8 @@
 <br/>
 
 <a href="https://github.com/paulopbomfim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulopbomfim&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbomfim&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulopbomfim&show_icons=true&icon_color=00ff7f&text_color=8b5cf6&title_color=00ff7f&bg_color=0f172a" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbomfim&layout=compact&text_color=8b5cf6&title_color=00ff7f&bg_color=0f172a" />
 </a>
 
 <br/>
@@ -51,7 +51,7 @@
 <h3> 🤝🏻 &nbsp;Entre em contato </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/paulopbomfim/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Paulo%20Bomfim-d83a7c?labelColor=141321&style=flat&logo=linkedin"></a>
-<a href="mailto:paulopbomfim@gmail.comr"><img alt="Email" src="https://img.shields.io/badge/Email-paulopbomfim@gmail.com-d83a7c?labelColor=141321&style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/paulopbomfim/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Paulo%20Bomfim-8b5cf6?labelColor=0f172a&style=flat&logo=linkedin"></a>
+<a href="mailto:paulopbomfim@gmail.comr"><img alt="Email" src="https://img.shields.io/badge/Email-paulopbomfim@gmail.com-8b5cf6?labelColor=0f172a&style=flat&logo=gmail"></a>
 </p>
 
