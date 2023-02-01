@@ -41,10 +41,10 @@
 
 <br/>
 
-<a href="https://github.com/paulopbomfim">
+<!--<a href="https://github.com/paulopbomfim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulopbomfim&show_icons=true&icon_color=00ff7f&text_color=8b5cf6&title_color=00ff7f&bg_color=0f172a" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbomfim&layout=compact&text_color=8b5cf6&title_color=00ff7f&bg_color=0f172a" />
-</a>
+</a>-->
 
 <br/>
 
