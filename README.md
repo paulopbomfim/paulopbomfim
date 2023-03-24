@@ -4,7 +4,7 @@
 
 - 🔥 &nbsp; Desenvolvedor Web Junior.
 - 🎓 &nbsp; Formado em Desenvolvimento Web e Aceleração de C# na <a href="https://www.betrybe.com/">Trybe</a></h3>.
-- 💼 &nbsp; Buscando novas oportunidades como Desenvolvedor Back-end C#.
+- 💼 &nbsp; Atualmente trabalhando na <a href="https://www.lekto.com.br/lekto">Lekto</a>.
 - 🌱 &nbsp; Aprendendo sobre ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp), ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet) e ![Asp.NET](https://img.shields.io/badge/-Asp.NET-333333?style=flat&logo=dotnet).
 
 
@@ -36,6 +36,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5D2B90)
 
 
 
