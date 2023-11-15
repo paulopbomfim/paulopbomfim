@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- 🔥 &nbsp; Desenvolvedor Web Junior.
-- 🎓 &nbsp; Formado em Desenvolvimento Web e Aceleração de C# na <a href="https://www.betrybe.com/">Trybe</a></h3>.
+- 🔥 &nbsp; Desenvolvedor de software focado no desenvolvimento web.
 - 💼 &nbsp; Atualmente trabalhando na <a href="https://www.lekto.com.br/lekto">Lekto</a>.
-- 🌱 &nbsp; Aprendendo sobre ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp), ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet) e ![Asp.NET](https://img.shields.io/badge/-Asp.NET-333333?style=flat&logo=dotnet).
+- 🌳 &nbsp; No momento me especializando nas tecnologias ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp), ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet), ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) e ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react).
+- 🌱 &nbsp; Aprendendo sobre ![React](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular).
 
 
 <h3> 🛠 &nbsp;Stack de Tecnologias</h3>
@@ -37,6 +37,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5D2B90)
+  ![Rider](https://img.shields.io/badge/-JetBrains%20Rider-333333?style=flat&logo=rider&logoColor=fff)
+  ![WebStorm](https://img.shields.io/badge/-JetBrains%20WebStorm-333333?style=flat&logo=webstorm&logoColor=fff)
 
 
 
