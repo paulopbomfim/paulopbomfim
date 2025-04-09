@@ -54,7 +54,7 @@
 <h3> 🤝🏻 &nbsp;Entre em contato </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/paulopbomfim/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Paulo%20Bomfim-8b5cf6?labelColor=0f172a&style=flat&logo=linkedin"></a>
-<a href="mailto:paulopbomfim@gmail.comr"><img alt="Email" src="https://img.shields.io/badge/Email-paulopbomfim@gmail.com-8b5cf6?labelColor=0f172a&style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/paulopbomfim/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Paulo%20Bomfim-7287fd?labelColor=eff1f5&style=flat&logo=linkedin"></a>
+<a href="mailto:paulopbomfim@gmail.comr"><img alt="Email" src="https://img.shields.io/badge/Email-paulopbomfim@gmail.com-7287fd?labelColor=eff1f5&style=flat&logo=gmail"></a>
 </p>
 
