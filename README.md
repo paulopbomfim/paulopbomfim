@@ -4,8 +4,8 @@
 
 - 🔥 &nbsp; Desenvolvedor de software focado no desenvolvimento web.
 - 💼 &nbsp; Atualmente trabalhando na <a href="https://www.lekto.com.br/lekto">Lekto</a>.
-- 🌳 &nbsp; No momento me especializando nas tecnologias ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp), ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet), ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) e ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react).
-- 🌱 &nbsp; Aprendendo sobre ![React](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular).
+- 🌳 &nbsp; No momento me especializando nas tecnologias ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp), ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet), ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript), ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) e ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular).
+
 
 
 <h3> 🛠 &nbsp;Stack de Tecnologias</h3>
@@ -45,8 +45,8 @@
 <br/>
 
 <a href="https://github.com/paulopbomfim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulopbomfim&show_icons=true&icon_color=00ff7f&text_color=8b5cf6&title_color=00ff7f&bg_color=0f172a" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbomfim&layout=compact&text_color=8b5cf6&title_color=00ff7f&bg_color=0f172a" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulopbomfim&show_icons=true&icon_color=7287fd&text_color=6c6f85&title_color=4c4f69&bg_color=eff1f5&ring_color=7287fd" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbomfim&layout=compact&text_color=6c6f85&title_color=4c4f69&bg_color=eff1f5" />
 </a>
 
 <br/>
