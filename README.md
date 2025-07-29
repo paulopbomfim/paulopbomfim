@@ -22,6 +22,7 @@
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
   ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet)
   ![Asp.NET](https://img.shields.io/badge/-Asp.NET-333333?style=flat&logo=dotnet)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular).
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
