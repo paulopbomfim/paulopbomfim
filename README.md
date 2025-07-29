@@ -4,7 +4,7 @@
 
 - 🔥 &nbsp; Desenvolvedor de software focado no desenvolvimento web.
 - 💼 &nbsp; Atualmente trabalhando na <a href="https://www.lekto.com.br/lekto">Lekto</a>.
-- 🌳 &nbsp; No momento me especializando nas tecnologias ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp), ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet), ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript), ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) e ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular).
+- 🌳 &nbsp; No momento me especializando nas tecnologias ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp) ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular).
 
 
 
@@ -14,7 +14,6 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
