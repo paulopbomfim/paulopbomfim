@@ -4,7 +4,7 @@
 
 - 🔥 &nbsp; Desenvolvedor de software focado no desenvolvimento web.
 - 💼 &nbsp; Atualmente trabalhando na <a href="https://www.lekto.com.br/lekto">Lekto</a>.
-- 🌳 &nbsp; No momento me especializando nas tecnologias ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp) ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular).
+- 🌳 &nbsp; No momento me especializando nas tecnologias ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp) ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 
 
 
@@ -21,7 +21,7 @@
   ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet)
   ![Asp.NET](https://img.shields.io/badge/-Asp.NET-333333?style=flat&logo=dotnet)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js).
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   
   
 - 🛢 &nbsp;
