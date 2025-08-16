@@ -1,4 +1,4 @@
-<h2> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Paulo</h2>
+<h2> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
